@@ -1,3 +1,5 @@
+.env
+
 # Generated files and folders
 dist
 dist-ssr
@@ -39,3 +41,5 @@ lerna-debug.log*
 *.njsproj
 *.sln
 *.sw?
+.vs/VSWorkspaceState.json
+.wsuo
